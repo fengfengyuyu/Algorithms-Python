@@ -11,5 +11,5 @@ Enjoy it!
 
 - From http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/  "Data Structure and Algorithms in Python at PKU"
 
-- From https://www.zhihu.com/question/19889750 " I think the book 'Python Algorithm' is a better start."
+- From https://www.zhihu.com/question/19889750 " The book 'Python Algorithm' maybe a better start. Luckly I have got chinese and English digital version"
 
