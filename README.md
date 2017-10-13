@@ -14,5 +14,6 @@ Enjoy it!
 - From https://www.zhihu.com/question/19889750 " The book 'Python Algorithm' maybe a better start. Luckly I have got chinese and English digital version"
 
 - From http://or.nsfc.gov.cn/bitstream/00001903-5/280826/1/1000013890101.pdf "A new approach for data processing in supply chain network based on FPGA"
-  - The paper comes from NCF.GOV.CN
+  - The paper comes from NCF.GOV.CN. Some opinions as follows:
+    -  How to ensure the correctness and effectiveness of data collecting and processing at the bottom layer of SCN is a key issue which relates to the further development of SCN. 
 
