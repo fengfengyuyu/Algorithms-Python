@@ -7,6 +7,8 @@ Welcome to add material if you find more better.
 
 Enjoy it!
 
-Oct 13th
+Oct 13th:
 
-[from PKU Chinese Version](http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/)
+[from PKU Chinese Version]: http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/ "yo"
+
+[foo]: http://example.com/ "Optional Title Here"
