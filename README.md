@@ -9,6 +9,6 @@ Enjoy it!
 
 ## Oct.13 2017:
 
-From http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/  "数据结构与算法（Python 语言）教学材料"
+- From [![PKU Materials](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/)  "数据结构与算法（Python 语言）教学材料"
 
 
