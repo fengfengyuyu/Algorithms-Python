@@ -11,4 +11,5 @@ Enjoy it!
 
 - From [![PKU Materials](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/)  "Data Structure and Algorithms in Python at PKU"
 
+- From [![ZHIHU Materials](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.zhihu.com/question/19889750) " I think the book 'Python Algorithm' is a better start."
 
