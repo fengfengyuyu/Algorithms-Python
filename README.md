@@ -7,8 +7,8 @@ Welcome to add more material if you find more better.
 
 Enjoy it!
 
-Oct 13th:
+## Oct 13th:
 
-http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/  "数据结构与算法（Python 语言）教学材料"
+From http://www.math.pku.edu.cn/teachers/qiuzy/ds_python/courseware/  "数据结构与算法（Python 语言）教学材料"
 
 
