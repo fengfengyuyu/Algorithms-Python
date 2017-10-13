@@ -17,5 +17,5 @@ Enjoy it!
   - The paper comes from NCF.GOV.CN. Some opinions as follows:
     -  How to ensure the correctness and effectiveness of data collecting and processing at the bottom layer of SCN is a key issue which relates to the further development of SCN. 
     
-    -Any network, including SCN, is constructed by various nodes. It is well known that there are many embedded devices that are deployed in these nodes of SCN and used for data collection and processing. The real time of data processing will directly affect the safety of SCN. In most cases, these devices were designed by DSP (digital signal processor) technology, but DSP is usually in serial mode when it executes the program codes; it will increase risk in SCN by reducing real time of data processing.
+    -  Any network, including SCN, is constructed by various nodes. It is well known that there are many embedded devices that are deployed in these nodes of SCN and used for data collection and processing. The real time of data processing will directly affect the safety of SCN. In most cases, these devices were designed by DSP (digital signal processor) technology, but DSP is usually in serial mode when it executes the program codes; it will increase risk in SCN by reducing real time of data processing.
 
